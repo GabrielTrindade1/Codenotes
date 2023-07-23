@@ -1,6 +1,14 @@
 ﻿# Codenotes
 Codenotes foi um projeto que desenvolvi como um projeto de melhoria para empresa na qual eu trabalho atualmente, funciona como um aplicativo de anotações e compras de peças, essas peças estão marcadas com codigos e descrições, como um carrinho de compras para mandar a reserva.
 
+## :camera_flash: Screenshots
+![introapp2](https://github.com/GabrielTrindade1/Codenotes/assets/125523997/9b809540-c803-45d3-8f59-77e18e88a435)
+![tarefa1](https://github.com/GabrielTrindade1/Codenotes/assets/125523997/5824c14b-a802-497a-bbf1-4bf26bb651e1)
+![Tarefa_feita](https://github.com/GabrielTrindade1/Codenotes/assets/125523997/dc0d4a4a-1f6c-4223-a00b-cd560630df17)
+![Codigos](https://github.com/GabrielTrindade1/Codenotes/assets/125523997/508df568-25e1-4ff9-8e4a-b956c8f452b9)
+![compras2](https://github.com/GabrielTrindade1/Codenotes/assets/125523997/94ce0cdd-09f1-409b-a7e7-7579d445d7a7)
+
+
 ## Tecnologias Utilizadas
 - Kotlin
 - Activity para host de telas
